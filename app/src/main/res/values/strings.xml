@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternTaskCR1</string>
+    <string name="nested_fragment_task">Nested Fragment Task</string>
+    <string name="recycler_view_task">Recycler View Task</string>
+    <string name="task1">Design a list using recycler view same as shown in the given image. </string>
+    <string name="task2">Create an Android application having one main activity with three nested fragments as below structure</string>
+</resources>
